@@ -1,0 +1,9 @@
+# Ignorer tout le contenu par défaut
+*
+
+# Garder ce fichier dans le dépôt
+!.gitignore
+
+# Autoriser le TP1
+!tp1_gargotte/
+!tp1_gargotte/**
